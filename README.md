@@ -2,7 +2,7 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador Lucas Sodré">
 
 <p align="left">
-  Olá! Sou Lucas, tenho 24 anos, carioca e bacharel em Sistemas de Informação pela Universidade Unigranrio. Aqui você conhecerá um pouco do meu trabalho.
+  Olá! Sou Lucas, tenho 25 anos, carioca e bacharel em Sistemas de Informação pela Universidade Unigranrio. Aqui você conhecerá um pouco do meu trabalho.
 </p>
 
 <p align="left">
