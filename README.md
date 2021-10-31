@@ -15,7 +15,7 @@
 
 <p align="left">
 <a href="mailto:lucassdr@outlook.com.br" alt="Gmail">
-<img src="https://img.shields.io/badge/-lucassdra@outlook.com.br-0078D4?style=flat-square&labelColor=0078D4&logo=gmail&logoColor=white&link=lucassdr@outlook.com.br"/></a>
+<img src="https://img.shields.io/badge/-lucassdr@outlook.com.br-0078D4?style=flat-square&labelColor=0078D4&logo=gmail&logoColor=white&link=lucassdr@outlook.com.br"/></a>
   
 <a href="https://www.linkedin.com/in/lucassdr" alt="Linkedin">
 <img src="https://img.shields.io/badge/-Lucas%20Sodre-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lucassdr" /></a>
